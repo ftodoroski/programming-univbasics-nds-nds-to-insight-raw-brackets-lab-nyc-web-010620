@@ -5,7 +5,7 @@ require 'pp'
 
 
 def directors_totals(nds)
-  pp nds
+  
 end
 
 
